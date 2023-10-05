@@ -9,14 +9,17 @@
     justify-content: center;
 }
 
+body{
+    background-color: #9598d9c4;
+}
 .container {
     width: 20%;
     margin: 0 auto;
     padding: 20px;
-    border: 1px solid #ccc;
+    border: 1px solid #000000;
     border-radius: 5px;
-    background-color: #fff;
-    box-shadow: 0 0 10px #00000033;
+    background-color: #7e83d9;
+    box-shadow: 3px 3px 5px  #000000ab;
 }
 
 h1 {
